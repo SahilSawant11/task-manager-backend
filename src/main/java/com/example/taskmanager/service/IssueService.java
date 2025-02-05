@@ -36,7 +36,6 @@ public class IssueService {
             issue.setCategory(issueDetails.getCategory());
             issue.setTeamLead(issueDetails.getTeamLead());
             issue.setDate(issueDetails.getDate());
-            issue.setAttachments(issueDetails.getAttachments());
             issue.setProject(issueDetails.getProject());
             issue.setExample(issueDetails.getExample());
             issue.setReportedBy(issueDetails.getReportedBy());
